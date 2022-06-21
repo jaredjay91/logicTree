@@ -1,0 +1,2 @@
+D:Dog,['is an animal', 'has 4 legs']
+P:0,{'statement_string': 'A cat is an animal and has 4 legs', 'id_number': 0, 'parents': [], 'children': []}
