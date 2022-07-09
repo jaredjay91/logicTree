@@ -1,2 +1,2 @@
-D:Dog,['is an animal', 'has 4 legs']
-P:0,{'statement_string': 'A cat is an animal and has 4 legs', 'id_number': 0, 'parents': [], 'children': []}
+D1,<LogicTree.Definition object at 0x000001EE6A63C550>
+P1,<LogicTree.Statement object at 0x000001EE6A63C9A0>

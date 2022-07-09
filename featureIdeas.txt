@@ -1,0 +1,18 @@
+
+* Logic Tree: Allow clients to build a set of definitions and statements that can be rendered as a tree showing the flow of an argument.
+
+* Automatic growth: The AI can look through all the statements that a user has in their database and find connections to generate new statements.
+
+* Backwards growth / premise suggestions: The AI suggests statements from which the users statements would follow.
+
+* Statement scores: 
+	- truth value: a number telling the likelihood that the given statement is true, assuming a truth value of 0.5 for all premises.
+	- consensus score: The percentage of users who agree with the statement. But they must first accept the same definitions involved in the statement
+
+* Parse a written argument: Copy and paste a written argument and let the AI sort out the statements, the logic, and the assumptions that go into it.
+
+* Copy and paste an argument to see scores like the following:
+	The AI finds the argument to be
+	- 13% logical
+	- 20% emotional
+	- 30% belief-based
